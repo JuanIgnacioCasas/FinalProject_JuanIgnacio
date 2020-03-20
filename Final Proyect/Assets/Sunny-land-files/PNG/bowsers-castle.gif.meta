@@ -1,0 +1,3701 @@
+fileFormatVersion: 2
+guid: 28582bee7864df34b84f7cd68e198819
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bowsers-castle_0
+    21300002: bowsers-castle_1
+    21300004: bowsers-castle_2
+    21300006: bowsers-castle_3
+    21300008: bowsers-castle_4
+    21300010: bowsers-castle_5
+    21300012: bowsers-castle_6
+    21300014: bowsers-castle_7
+    21300016: bowsers-castle_8
+    21300018: bowsers-castle_9
+    21300020: bowsers-castle_10
+    21300022: bowsers-castle_11
+    21300024: bowsers-castle_12
+    21300026: bowsers-castle_13
+    21300028: bowsers-castle_14
+    21300030: bowsers-castle_15
+    21300032: bowsers-castle_16
+    21300034: bowsers-castle_17
+    21300036: bowsers-castle_18
+    21300038: bowsers-castle_19
+    21300040: bowsers-castle_20
+    21300042: bowsers-castle_21
+    21300044: bowsers-castle_22
+    21300046: bowsers-castle_23
+    21300048: bowsers-castle_24
+    21300050: bowsers-castle_25
+    21300052: bowsers-castle_26
+    21300054: bowsers-castle_27
+    21300056: bowsers-castle_28
+    21300058: bowsers-castle_29
+    21300060: bowsers-castle_30
+    21300062: bowsers-castle_31
+    21300064: bowsers-castle_32
+    21300066: bowsers-castle_33
+    21300068: bowsers-castle_34
+    21300070: bowsers-castle_35
+    21300072: bowsers-castle_36
+    21300074: bowsers-castle_37
+    21300076: bowsers-castle_38
+    21300078: bowsers-castle_39
+    21300080: bowsers-castle_40
+    21300082: bowsers-castle_41
+    21300084: bowsers-castle_42
+    21300086: bowsers-castle_43
+    21300088: bowsers-castle_44
+    21300090: bowsers-castle_45
+    21300092: bowsers-castle_46
+    21300094: bowsers-castle_47
+    21300096: bowsers-castle_48
+    21300098: bowsers-castle_49
+    21300100: bowsers-castle_50
+    21300102: bowsers-castle_51
+    21300104: bowsers-castle_52
+    21300106: bowsers-castle_53
+    21300108: bowsers-castle_54
+    21300110: bowsers-castle_55
+    21300112: bowsers-castle_56
+    21300114: bowsers-castle_57
+    21300116: bowsers-castle_58
+    21300118: bowsers-castle_59
+    21300120: bowsers-castle_60
+    21300122: bowsers-castle_61
+    21300124: bowsers-castle_62
+    21300126: bowsers-castle_63
+    21300128: bowsers-castle_64
+    21300130: bowsers-castle_65
+    21300132: bowsers-castle_66
+    21300134: bowsers-castle_67
+    21300136: bowsers-castle_68
+    21300138: bowsers-castle_69
+    21300140: bowsers-castle_70
+    21300142: bowsers-castle_71
+    21300144: bowsers-castle_72
+    21300146: bowsers-castle_73
+    21300148: bowsers-castle_74
+    21300150: bowsers-castle_75
+    21300152: bowsers-castle_76
+    21300154: bowsers-castle_77
+    21300156: bowsers-castle_78
+    21300158: bowsers-castle_79
+    21300160: bowsers-castle_80
+    21300162: bowsers-castle_81
+    21300164: bowsers-castle_82
+    21300166: bowsers-castle_83
+    21300168: bowsers-castle_84
+    21300170: bowsers-castle_85
+    21300172: bowsers-castle_86
+    21300174: bowsers-castle_87
+    21300176: bowsers-castle_88
+    21300178: bowsers-castle_89
+    21300180: bowsers-castle_90
+    21300182: bowsers-castle_91
+    21300184: bowsers-castle_92
+    21300186: bowsers-castle_93
+    21300188: bowsers-castle_94
+    21300190: bowsers-castle_95
+    21300192: bowsers-castle_96
+    21300194: bowsers-castle_97
+    21300196: bowsers-castle_98
+    21300198: bowsers-castle_99
+    21300200: bowsers-castle_100
+    21300202: bowsers-castle_101
+    21300204: bowsers-castle_102
+    21300206: bowsers-castle_103
+    21300208: bowsers-castle_104
+    21300210: bowsers-castle_105
+    21300212: bowsers-castle_106
+    21300214: bowsers-castle_107
+    21300216: bowsers-castle_108
+    21300218: bowsers-castle_109
+    21300220: bowsers-castle_110
+    21300222: bowsers-castle_111
+    21300224: bowsers-castle_112
+    21300226: bowsers-castle_113
+    21300228: bowsers-castle_114
+    21300230: bowsers-castle_115
+    21300232: bowsers-castle_116
+    21300234: bowsers-castle_117
+    21300236: bowsers-castle_118
+    21300238: bowsers-castle_119
+    21300240: bowsers-castle_120
+    21300242: bowsers-castle_121
+    21300244: bowsers-castle_122
+    21300246: bowsers-castle_123
+    21300248: bowsers-castle_124
+    21300250: bowsers-castle_125
+    21300252: bowsers-castle_126
+    21300254: bowsers-castle_127
+    21300256: bowsers-castle_128
+    21300258: bowsers-castle_129
+    21300260: bowsers-castle_130
+    21300262: bowsers-castle_131
+    21300264: bowsers-castle_132
+    21300266: bowsers-castle_133
+    21300268: bowsers-castle_134
+    21300270: bowsers-castle_135
+    21300272: bowsers-castle_136
+    21300274: bowsers-castle_137
+    21300276: bowsers-castle_138
+    21300278: bowsers-castle_139
+    21300280: bowsers-castle_140
+    21300282: bowsers-castle_141
+    21300284: bowsers-castle_142
+    21300286: bowsers-castle_143
+    21300288: bowsers-castle_144
+    21300290: bowsers-castle_145
+    21300292: bowsers-castle_146
+    21300294: bowsers-castle_147
+    21300296: bowsers-castle_148
+    21300298: bowsers-castle_149
+    21300300: bowsers-castle_150
+    21300302: bowsers-castle_151
+    21300304: bowsers-castle_152
+    21300306: bowsers-castle_153
+    21300308: bowsers-castle_154
+    21300310: bowsers-castle_155
+    21300312: bowsers-castle_156
+    21300314: bowsers-castle_157
+    21300316: bowsers-castle_158
+    21300318: bowsers-castle_159
+    21300320: bowsers-castle_160
+    21300322: bowsers-castle_161
+    21300324: bowsers-castle_162
+    21300326: bowsers-castle_163
+    21300328: bowsers-castle_164
+    21300330: bowsers-castle_165
+    21300332: bowsers-castle_166
+    21300334: bowsers-castle_167
+    21300336: bowsers-castle_168
+    21300338: bowsers-castle_169
+    21300340: bowsers-castle_170
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bowsers-castle_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 609
+        width: 24
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311501d31aa41bd48aae6ce9397bb9a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 609
+        width: 26
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837cc310ec77ee74fbaf7295fbf7a56b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 609
+        width: 24
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43932dd9f8ea64040ba8f9077dc795c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 611
+        width: 4
+        height: 5
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e57398c308ee4a8f7f413f4204f03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 609
+        width: 33
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8981f0b917ff404b86fafbcc7b8fac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 609
+        width: 34
+        height: 13
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b4b6cc7a91b6644b5af7d770329ebe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 606
+        width: 26
+        height: 17
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f503109344fab0f4eb8a9bbb75acc2eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 606
+        width: 28
+        height: 17
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34ae5a4d5042c34986cb5d9238a0e86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 606
+        width: 31
+        height: 17
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9497b12e5c5684fb3c1651a207205f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 606
+        width: 26
+        height: 17
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e14c5d2f6d4894b8a6898477fd1c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 608
+        width: 5
+        height: 5
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422b77a6a7572d74c8014053e1ab56a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 606
+        width: 36
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d59299ad21e58344b72d55f84b0e2fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_12
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 602
+        width: 42
+        height: 45
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c70446ef6a6d5a48811c125f744c513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 557
+        width: 32
+        height: 35
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5cfddf9b4998a44a3c002245b1240e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 557
+        width: 32
+        height: 34
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d3a7931f4390848b3dad6942089b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 557
+        width: 32
+        height: 35
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8088ae02071d25c4fad2cc01d55ea40a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 557
+        width: 31
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4b4842fd8e24f40ab2f1c62a80592e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 557
+        width: 32
+        height: 35
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980bf84761d739b4aa622957ff429abd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 554
+        width: 34
+        height: 37
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946e6429b2234140a7f85fa05581917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 554
+        width: 34
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b166d9944187804eb84dbd7ecb5348f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 554
+        width: 34
+        height: 37
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3354a305f5d25a48a6c609087f230ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_21
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 554
+        width: 33
+        height: 38
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ff6b261a119a64b99b635e822e644b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 554
+        width: 34
+        height: 37
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc36f86319b78d64d98ff1d8fedc47b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_23
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 506
+        width: 113
+        height: 94
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15501675439099e468e03798841103e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_24
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 575
+        width: 40
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c87f6a7508581a489cc3fddc42416fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_25
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 575
+        width: 24
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb07846d0528524bbde6dc1c0ffdaac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 575
+        width: 24
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa05a69a7babf45894cadf7de384f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 575
+        width: 6
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb462278f56503245b536003b3b32669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_28
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 575
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c87015d6e13524eb438a6e03374e6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_29
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 575
+        width: 6
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cafb54406bdd394298b0a1229d763f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 511
+        width: 32
+        height: 35
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586bc312ae64e0f4c94aa84720044758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 511
+        width: 32
+        height: 35
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff1c23038e25584d811e5f2c89c0951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 511
+        width: 32
+        height: 35
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424c7957731e7894098e2e0dd3b361bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 511
+        width: 32
+        height: 34
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d326fe3456358974c98e82ff585fb4ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 473
+        width: 64
+        height: 80
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cacadd8c733dd46aa9564179fe4653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 508
+        width: 34
+        height: 37
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14118f23402f05240a908b32694093c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 508
+        width: 34
+        height: 37
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae22205fe3442024ca706d0a805f011a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 508
+        width: 34
+        height: 37
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159dd0c19efc3ef47a6154bffd23fc74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_38
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 508
+        width: 34
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0d60dc7bd78de46a2b3c6b86ed4c64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_39
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 543
+        width: 24
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e375ecf32acbba4ea3abd5d15df362b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_40
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 543
+        width: 24
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2940a9aefe6b39b4fa1837d27c0c89f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_41
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 543
+        width: 16
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d399858d1e6df4e418489996a7f9c867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_42
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 543
+        width: 6
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dbc1763ef2576438a1c84b1b21631f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_43
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 543
+        width: 40
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd7b24d59423f488aa1cefe2e108cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_44
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 543
+        width: 6
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e0666f59d4d784a847f623ba0c5ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_45
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 543
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9094c4accbdb541b97b9a0737cce28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_46
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 543
+        width: 6
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077913bd86c63024d8ac5ae48174c87d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_47
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 543
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa92446f04f985c4fb4caad1440d6fdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_48
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 527
+        width: 56
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28810f0d6fc8c934bbf8535d126ffb30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_49
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 527
+        width: 32
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64c39cfaef00714f87c73d1271c8439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_50
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 527
+        width: 15
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2185dcbe42512eb4e978a2d25288403b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_51
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 527
+        width: 6
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4642656936f6ce40b0c96463a2d44a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_52
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 501
+        width: 38
+        height: 19
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e9cfff2588fcc4aa8276facd8e9584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_53
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 482
+        width: 27
+        height: 22
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b531f30c207dca24cbb77413cf6db91d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_54
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 449
+        width: 48
+        height: 54
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550d88e86b6974045b33b4ec210b1bcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 463
+        width: 31
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b7f20ca21a1f546b80a1184184c9b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 463
+        width: 30
+        height: 38
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2918682ae87564abdd9029fa5f55d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 463
+        width: 31
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53585fd5567a2884abd7189c446fa705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 463
+        width: 30
+        height: 38
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ca18388ada4c428edc1e26858a38d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 455
+        width: 32
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514dfa6279c8999478737857e1b03964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_60
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 455
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6788a5f3ef68234b96c136920b64474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_61
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 460
+        width: 33
+        height: 38
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df14e55b2f6d0c345813e5a3d0e96107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_62
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 460
+        width: 32
+        height: 40
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f266c2401fe434ab76ae21152c9ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 460
+        width: 33
+        height: 38
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb971018de8184d8d8c41cb4150760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_64
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 460
+        width: 32
+        height: 40
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4265ca685033ea47b473312870729d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_65
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 466
+        width: 35
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9426ccea0082c42ba368c8b0d88696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_66
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 413
+        width: 24
+        height: 29
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621acf623d57f1e4d994a14e04f3a318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_67
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 413
+        width: 22
+        height: 29
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0853c02c4f94f734394dc5848b561089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_68
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 413
+        width: 24
+        height: 29
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88d8bce8ce07f74284833441e63bcd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 413
+        width: 24
+        height: 22
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377d6886838895b4087564f8b5b76511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_70
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 413
+        width: 27
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1dbd4756a3d5146a49ab1fa01e9ab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_71
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 413
+        width: 18
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e03dab45ce09834f8fc26e62e86739f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_72
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 413
+        width: 16
+        height: 23
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be051d43c6875d94ca91b1a5c56d272c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_73
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 430
+        width: 27
+        height: 11
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f128518a91e6346850773ebaeda808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_74
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 407
+        width: 49
+        height: 57
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2342ea43d73af343847f93dceef8da2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_75
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 413
+        width: 34
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d30259a011b84a498773226d1436bbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 413
+        width: 24
+        height: 10
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309550296a617dc4aa4cec1dc72b77d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_77
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 414
+        width: 9
+        height: 12
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616235694c1defe4589af62cc9f279a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_78
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 403
+        width: 20
+        height: 26
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe727d79bfaca4ea627709edad5d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_79
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 401
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ecf0e82e2818a4a9f0307437ff5348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_80
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 401
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3129a8547db744fa46271e5380807c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_81
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 401
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750fc99e1706adf41a0bda0f5d4d0a6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_82
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 401
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13418f79056a6064fafed353f33db8f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_83
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 363
+        width: 32
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28db723e7c9de294f882a27417200526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 381
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3616c867d8b6b4784ecb33108bdae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_85
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 387
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5468fdd4051be4aba8f101655f9d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_86
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 387
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5ca921bcd9fa54a99caf3c2da0b819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 387
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b804c3bd7cc786643950a849b8b52773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_88
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 387
+        width: 7
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee291846054466489f8ed4f6f480bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_89
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 387
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a0454c7d5cc224e8bd13b091201001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 383
+        width: 16
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd7e6f3721cf043b5ac9a7bd8ae969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_91
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 383
+        width: 16
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7161cb45976499649b17e012b900355a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_92
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 382
+        width: 33
+        height: 12
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc036b6216dd24e998272e3f79d583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_93
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 382
+        width: 17
+        height: 13
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b412559013b75f04ba17e6ad765915e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_94
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 383
+        width: 33
+        height: 19
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5da695ac5eaa114a9131272e562cfb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_95
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 381
+        width: 32
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372a9b989bf1a684ebe649a86a9f93e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_96
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 366
+        width: 50
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb1782d5da00c458721a2d4c172a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_97
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 365
+        width: 63
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1e293ef40f9134895ae6d89c4773b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_98
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 363
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715980b5f1e93954e9c1116fd44e3230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 363
+        width: 17
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455579a6b1832b54ebf2970fe19c484f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_100
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 363
+        width: 16
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcd69c06c600f140bf878c8599c6a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_101
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 363
+        width: 16
+        height: 13
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d26974353c1b7149a7a93edf6f7c152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_102
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 363
+        width: 16
+        height: 13
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c05429f1b89d143adf889ecd540928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 363
+        width: 17
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c66820f1df5b14fbe7bf6e637338f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_104
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 363
+        width: 17
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dd540c66996fa4db1fb1804fc770e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 363
+        width: 16
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b635291c1fe382a42ab940a1a9156b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_106
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 363
+        width: 16
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ce5fc7006a88d48953b94de7f44e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_107
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 363
+        width: 8
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0d4771feeb15740a65978c3f6966da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 363
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047b8a9c6c55987478b229d65043215e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_109
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 363
+        width: 8
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bcd7bf51eed844a8a8ad39cbed5866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_110
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 363
+        width: 49
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcc2b0399f91b2409b781e39e683400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_111
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 363
+        width: 17
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e4f4e9a51819479b9b11d01d9650c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_112
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 327
+        width: 99
+        height: 56
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f78b8aac10557540accbaa53247bfb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_113
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 249
+        width: 58
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78637ffc8197ca44f825e33f9dc6c1f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_114
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 249
+        width: 58
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f5914b5601dd14a8ee0a62eeeb893f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_115
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 249
+        width: 58
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708c6481647ae04b827e747985bc1df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_116
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 249
+        width: 58
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fffeb81231e0874a93d748724004fda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_117
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 249
+        width: 58
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be22d5c391060f44994d25d5ac7e089a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_118
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 249
+        width: 58
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05083f21cf544844bad6647f686b0715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_119
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 249
+        width: 58
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daa18a874b22cb45ab349da7fba9ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_120
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 285
+        width: 71
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76095b69e59df346910cf28290be570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_121
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 279
+        width: 98
+        height: 44
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3520374b97269ee45893891e9d0cfe85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_122
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 211
+        width: 14
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd431d73992fe4409b3a0d12073c108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_123
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 211
+        width: 14
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522a06448209064191db1ab15aa3170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_124
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 211
+        width: 18
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c5dc551cc54544bb4a0897e45f0b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_125
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 211
+        width: 24
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb6d62fd97a3ad4d825e9eb01fc66c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_126
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 212
+        width: 47
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f9f523e7ab14c4da1dced5890716b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_127
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 226
+        width: 34
+        height: 34
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d81ffc55043bc4ab569f9448346e14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_128
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 225
+        width: 36
+        height: 42
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ea5e58292a6bc4998677e7792b21cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_129
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 225
+        width: 35
+        height: 41
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c3254c19b9d414a8b47862d0098780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_130
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 225
+        width: 35
+        height: 37
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394cedb1eb4fc3846a213293fcae499f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_131
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 225
+        width: 29
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d62fb716b7adc459a4ee20ce1b822b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_132
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 210
+        width: 14
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b29528225dd24b89e54a719213236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_133
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 189
+        width: 14
+        height: 37
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddcb1ed735c5364d913ac36c25db17f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_134
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 190
+        width: 14
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a14d4efed2c0640a02ca015c9fd81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_135
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 210
+        width: 14
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a32582a542ac943b53618e9bea9b97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_136
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 210
+        width: 14
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd63d26d4b566449c29bfd3b0aba38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_137
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 210
+        width: 14
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c70bdd4ef4f74e82ff79a39427e39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_138
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 214
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c20986fa2a3a94e989abd23906cdfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_139
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 214
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c678829bbd0ab9b4aa14c94a97538c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_140
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 214
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504cd7a6ef93f16409e21f4e256a2186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_141
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 219
+        width: 6
+        height: 6
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0813ab08e35cec64fa7f82f8a2486df6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_142
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 219
+        width: 6
+        height: 6
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be437403fdc887b48a284e7eb008d107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_143
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 214
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14e31a694fe37a4181e4e95f79c07e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_144
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 214
+        width: 5
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e84f38b3cddf42b1948d913917f75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_145
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 215
+        width: 6
+        height: 10
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa215928bdc964887cb5eded2f43f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_146
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 218
+        width: 4
+        height: 5
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a02d624635d7e4439f3539497da4ae8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_147
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 218
+        width: 4
+        height: 5
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b04899adfe98f3418d3497bb3843c95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_148
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 215
+        width: 6
+        height: 10
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435b0308c54c67d4fbaf845d6109b96b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_149
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 214
+        width: 5
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba1a2c0a9f34146ba3375680f54549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_150
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 213
+        width: 13
+        height: 11
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c845ce1532e6047b8d8be5c4d08233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_151
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 213
+        width: 13
+        height: 11
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3eb239583932046b8d8999d951cd16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_152
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 207
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9fac4132deca445b288426335107a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_153
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 207
+        width: 8
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03047f4fb71c844085224602a29b3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_154
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 194
+        width: 4
+        height: 5
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32013274193fef34faebde6e9bbae833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_155
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 182
+        width: 9
+        height: 21
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26569877acc32114182021d58d253293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_156
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 21
+        width: 158
+        height: 176
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fde26a17de8e4949a46d5eaa4153e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 19
+        width: 16
+        height: 168
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3124f9232d70f42987df5aa350f556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_158
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 168
+        width: 304
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e16c631accf2646ab972462d9cb790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_159
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 85
+        width: 94
+        height: 88
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48915794da92cd4fbf0597e9b6ac9fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_160
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 141
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82b951268f9bbd4390c31e2ec20e526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_161
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 141
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18c547de2143b8439affc108223ae6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_162
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 141
+        width: 15
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f09f41820ff13469110c787c7edb9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_163
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 141
+        width: 14
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b804b290116bc41ac167effd046970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_164
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 141
+        width: 15
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204d56336ff420f4894e595057a8198c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_165
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3
+        width: 165
+        height: 145
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d09a7805d354af4fa3effaa26d25dfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_166
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 114
+        width: 14
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef79fc22a3210af4490b9cf4e3c7e451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_167
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 113
+        width: 11
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db87daaebe38d7d4fa42cb94e3429c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_168
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 113
+        width: 14
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313fd0782470c8948a11442e4bbe7439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_169
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 113
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b56c82ecff28e45a4eb34b72285ea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowsers-castle_170
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 61
+        width: 38
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc62ce0123063343be6608364a077c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bc5da8a86e7769d4dae90ab79d2132b9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
